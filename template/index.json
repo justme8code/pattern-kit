@@ -1,0 +1,16 @@
+{
+  "patterns": [
+    {
+      "name": "factory",
+      "languages": ["java"],
+      "description":"Encapsulates object creation logic",
+      "path": "factory"
+    },
+    {
+      "name": "builder",
+      "languages": ["java"],
+      "description":"Used to construct complex objects with multiple steps.",
+      "path": "builder"
+    }
+  ]
+}
