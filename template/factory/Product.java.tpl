@@ -1,4 +1,4 @@
-package {{package}}
+package {{package}} ;
 
 public interface Product {
     void use();
