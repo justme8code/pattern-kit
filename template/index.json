@@ -3,14 +3,33 @@
     {
       "name": "factory",
       "languages": ["java"],
-      "description":"Encapsulates object creation logic",
+      "description": "Encapsulates object creation logic",
       "path": "factory"
     },
     {
       "name": "builder",
       "languages": ["java"],
-      "description":"Used to construct complex objects with multiple steps.",
+      "description": "Builds complex objects step-by-step",
       "path": "builder"
+    },
+    {
+      "name": "singleton",
+      "languages": ["java"],
+      "description": "Ensures a class has only one instance",
+      "path": "singleton"
+    },
+    {
+      "name": "strategy",
+      "languages": ["java"],
+      "description": "Select an algorithm at runtime",
+      "path": "strategy"
+    },
+    {
+      "name": "observer",
+      "languages": ["java"],
+      "description": "Notifies observers when state changes",
+      "path": "observer"
     }
   ]
 }
+
